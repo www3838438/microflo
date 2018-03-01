@@ -48,7 +48,7 @@
     "pkginfo": "^0.4.0",
     "serialport": "^4.0.7",
     "uuid": "^3.0.1",
-    "mqtt": "^2.2.1",
+    "mqtt": "^2.16.0",
     "websocket": "~1.0.8"
   },
   "devDependencies": {
